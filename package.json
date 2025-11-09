@@ -1,0 +1,15 @@
+{
+  "name": "voxelizer.c",
+  "version": "1.2022.1",
+  "description": "Header only mesh voxelizer in c99; Karim Naaji (2016).",
+  "keywords": ["c", "library", "voxelizer", "voxel", "mesh", "3d"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/voxelizer.c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/voxelizer.c/issues"
+  },
+  "homepage": "https://github.com/nodef/voxelizer.c#readme"
+}

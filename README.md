@@ -6,6 +6,19 @@ _Header only mesh voxelizer in ANSI C_
 **About**
 
 Converts meshes and performs triangle-cube intersection to output a voxelized mesh.
+By [Karim Naaji](https://github.com/karimnaaji).
+
+**Installation**
+
+Run:
+```bash
+$ npm i voxelizer.c
+```
+
+And then include `voxelizer.h` as follows:
+```c
+#include "node_modules/voxelizer.c/voxelizer.h"
+```
 
 **How to use**
 
@@ -36,3 +49,10 @@ result = vx_voxelize(mesh, 0.025, 0.025, 0.025, precision);
 vx_mesh_free(result);
 vx_mesh_free(mesh);
 ```
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/voxelizer.c)
