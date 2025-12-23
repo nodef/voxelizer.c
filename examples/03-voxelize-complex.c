@@ -2,8 +2,8 @@
 #include <voxelizer.h>
 #include <stdio.h>
 
+
 int main() {
-    // Example 3: Voxelization of a complex geometry
     printf("Voxelizing a complex geometry...\n");
 
     // Load a complex geometry from file

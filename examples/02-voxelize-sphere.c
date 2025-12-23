@@ -2,8 +2,8 @@
 #include <voxelizer.h>
 #include <stdio.h>
 
+
 int main() {
-    // Example 2: Voxelization of a sphere
     printf("Voxelizing a sphere...\n");
 
     // Define a sphere geometry

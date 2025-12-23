@@ -2,8 +2,8 @@
 #include <voxelizer.h>
 #include <stdio.h>
 
+
 int main() {
-    // Example 1: Basic voxelization of a cube
     printf("Voxelizing a cube...\n");
 
     // Define a simple cube geometry
